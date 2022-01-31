@@ -15,6 +15,6 @@
 * написать англоязычную версию сайта;
 * дополнить README на английском.
 
-Ссылка на проект на GitHub: [Научиться учиться](https://github.com/MariaSeraya/how-to-learn.git)
+Ссылка на GitHub: [Путешествия по России](https://github.com/MariaSeraya/russian-travel.git)
 
-Ссылка на проект на GitHub: [Научиться учиться](https://github.com/MariaSeraya/how-to-learn.git)
+Ссылка на сайт, опубликованный на GitHub Pages: [Путешествия по России](https://mariaseraya.github.io/russian-travel/)
