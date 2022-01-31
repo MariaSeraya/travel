@@ -1,0 +1,15 @@
+.footer__menu-item {
+  margin: 0;
+  padding-inline-start: 0;
+  padding: 0 18px 0 0;
+}
+
+.footer__menu-item:last-child {
+  margin-right: 0;
+  margin-bottom: 0;
+}
+@media (max-width: 550px) {
+  .footer__menu-item  {
+    margin: 0 0 32px 0;
+  }
+}
