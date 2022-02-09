@@ -11,16 +11,9 @@
   padding: 0;
 }
 
-@media (max-width: 768px) {
-  .intro__list {
-    max-width: 720px;
-    margin: 33px 24px 0 24px;
-  }
-}
-
 @media (max-width: 320px) {
   .intro__list {
     max-width: 288px;
-    margin: 34px 16px 0 16px;
+    margin: 34px 0 0 0;
   }
 }
