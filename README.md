@@ -15,8 +15,8 @@
 **Inprovement plans:**
 * make an English version of the project.
 
-GitHub link: [Travel](https://github.com/MariaSeraya/russian-travel.git),
-GitHub Pages: [Travel](https://mariaseraya.github.io/russian-travel/)
+GitHub link: [Travel](https://github.com/MariaSeraya/travel.git),
+GitHub Pages: [Travel](https://mariaseraya.github.io/travel/)
 
 ------
 
@@ -38,5 +38,5 @@ GitHub Pages: [Travel](https://mariaseraya.github.io/russian-travel/)
 **Планы на доработку:**
 * написать англоязычную версию проекта.
 
-Ссылка на GitHub: [Путешествие](https://github.com/MariaSeraya/russian-travel.git),
-Ссылка на GitHub Pages: [Путешествие](https://mariaseraya.github.io/russian-travel/)
+Ссылка на GitHub: [Путешествие](https://github.com/MariaSeraya/travel.git),
+Ссылка на GitHub Pages: [Путешествие](https://mariaseraya.github.io/travel/)
