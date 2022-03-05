@@ -2,8 +2,8 @@
 ### The second project completed on the course of web-developers from Practicum by Yandex
 
 **About the project:**
-* educational project (made by brief from Figma);
-* landing page dedicated to traveling to unique places: Altai, Karelia, Baikal and others.
+* an educational project (made by brief from Figma);
+* a landing page dedicated to traveling to unique places: Altai, Karelia, Baikal and others.
 
 **Used in project:**
 * adaptive layout;
@@ -19,7 +19,6 @@ GitHub link: [Travel](https://github.com/MariaSeraya/travel.git),
 GitHub Pages: [Travel](https://mariaseraya.github.io/travel/)
 
 ------
-
 
 # Путешествие
 ### Второй проект, выполненный на курсе веб-разаботчиков от Яндекс.Практикум
